@@ -1,1 +1,1 @@
-Sitemap: https://vasylenko.info/blog/blog/sitemap.xml
+Sitemap: https://vasylenko.info//blog/sitemap.xml

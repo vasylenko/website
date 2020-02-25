@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://vasylenko.info/blog/blog/2020-02-05-init/</loc>
+<loc>https://vasylenko.info//blog/2020-02-05-init/</loc>
 <lastmod>2020-02-05T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>https://vasylenko.info/blog/blog/aboutme/</loc>
+<loc>https://vasylenko.info//blog/aboutme/</loc>
 </url>
 <url>
-<loc>https://vasylenko.info/blog/blog/</loc>
+<loc>https://vasylenko.info//blog/</loc>
 </url>
 <url>
-<loc>https://vasylenko.info/blog/blog/tags/</loc>
+<loc>https://vasylenko.info//blog/tags/</loc>
 </url>
 </urlset>

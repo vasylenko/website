@@ -3,8 +3,8 @@
   <channel>
     <title>Oh my blog!</title>
     <description>A place where I speak with the Internet</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://vasylenko.info/blog</link>
+    <atom:link href="https://vasylenko.info/blog/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>First post!</title>
@@ -15,8 +15,8 @@ A text.
 
         </description>
         <pubDate>Wed, 05 Feb 2020 00:00:00 -0800</pubDate>
-        <link>/2020-02-05-init/</link>
-        <guid isPermaLink="true">/2020-02-05-init/</guid>
+        <link>https://vasylenko.info/blog/2020-02-05-init/</link>
+        <guid isPermaLink="true">https://vasylenko.info/blog/2020-02-05-init/</guid>
       </item>
     
   </channel>
